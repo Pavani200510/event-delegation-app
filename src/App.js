@@ -4,6 +4,7 @@ import UseStateExample from "./components/UseStateExample";
 import UseEffectExample from "./components/UseEffectExample";
 import UseRefExample from "./components/UseRefExample";
 import FetchData from "./components/FetchData";
+import Counter from "./components/counter/counter";
 function App(){
   return(
     <div>
@@ -13,6 +14,7 @@ function App(){
       <UseEffectExample/>
       <UseRefExample/>
       <FetchData/>
+      <Counter/>
 
     </div>
   );

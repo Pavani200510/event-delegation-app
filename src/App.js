@@ -1,10 +1,10 @@
 
-import UseEffectExample from "./components/UseEffectExample";
+import UseRefExample from "./components/UseRefExample";
 
 function App() {
   return (
     <div>
-      <UseEffectExample />
+      <UseRefExample />
     </div>
   );
 }
